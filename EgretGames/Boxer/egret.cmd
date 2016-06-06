@@ -1,0 +1,1 @@
+"C:\Users\fox\AppData\Roaming\npm\egret.cmd" %*
